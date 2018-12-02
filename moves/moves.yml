@@ -1,0 +1,36 @@
+- name: buzz saw
+  properties:
+  - type: timing
+    values: [split]
+  - type: direction
+    values: [same]
+- name: extension
+  properties:
+  - type: timing
+  - type: direction
+- name: flower
+  properties:
+  - type: timing
+  - type: direction
+- name: thread the needle
+  properties:
+  - type: timing
+    values: [together]
+  - type: direction
+    values: [opposite]
+- name: under the leg
+  properties:
+  - type: forward leg
+    values: [left, right]
+  - type: poi
+    values: [left, right]
+  - type: timing
+    values: [split]
+  - type: direction
+    values: [same]
+- name: chase the sun
+  properties:
+  - type: timing
+    values: [together]
+  - type: direction
+    values: [same]
